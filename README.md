@@ -1,3 +1,7 @@
+This project is used for practice purposes with NextJS. Sources gathered from [frontendpractice.com](https://www.frontendpractice.com/projects/ableton)
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
