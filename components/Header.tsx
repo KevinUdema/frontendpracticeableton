@@ -15,14 +15,14 @@ const navigation = [
 
 export default function Header() {
   return (
-    <div className="header w-full mx-auto border-b-2 border-[#eeeeee]">
-      <nav className="nav flex items-center p-2 text-xl text-black">
+    <div className="header w-full mx-auto border-b-2 px-10 border-[#eeeeee]">
+      <nav className="nav flex items-center p-2 text-lg font-bold text-black">
         <Image
-          className="dark"
+          className="dark m-3"
           src="/next.svg"
           alt="Next.js logo"
-          width={100}
-          height={20}
+          width={60}
+          height={15}
           priority
         />
         {navigation.map((item) => (
