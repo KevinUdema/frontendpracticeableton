@@ -16,7 +16,7 @@ const navigation = [
 export default function Header() {
   return (
     <div className="header w-full mx-auto border-b-2 border-[#eeeeee]">
-      <nav className="nav flex items-center p-2 text-black">
+      <nav className="nav flex items-center p-2 text-xl text-black">
         <Image
           className="dark"
           src="/next.svg"
